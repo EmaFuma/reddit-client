@@ -18,4 +18,4 @@ The application will allow users to view and search posts and comments provided 
 - HTML
 - React
 - Redux, for better state control
-- Reddit API, to get the date to use for buiilding the UI
+- Reddit API, to get the date to use for building the UI
