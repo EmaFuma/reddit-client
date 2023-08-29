@@ -14,6 +14,8 @@ The application will allow users to view and search posts and comments provided 
 ## Tools used in the project
 
 - Javascript ES6
+- CSS
+- HTML
 - React
 - Redux, for better state control
 - Reddit API, to get the date to use for buiilding the UI
