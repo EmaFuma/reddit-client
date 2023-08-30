@@ -19,3 +19,7 @@ The application will allow users to view and search posts and comments provided 
 - React
 - [Redux](https://redux.js.org/) for better state control
 - [Reddit](https://www.reddit.com/?rdt=63887) - to get the data to use for building the UI
+
+## End Result 
+
+To view the end result of the project follow this link: https://github.com/EmaFuma/reddit-client/tree/master/Screenshots
